@@ -1,5 +1,10 @@
 # RESTful APIs
-This repo is a personal repo to docuement my RESTful APIs learning journey in Golang.
+This repo is a personal repo to docuement my RESTful APIs learning journey in Golang. 
+>
+**COMPLETE**
+> **Whats next?**
+> * I will be creating my own web apps.
+> * Integrating databases
 
 ### What is a RESTful API?
 **REST** stands for **RE**presentational **S**tate **T**ransfer. It's an architectural style for designing networked applications.
@@ -49,3 +54,12 @@ It is **BEST** practice to use proper HTTP Status Codes when creating RESTful AP
 **Cacheable:** Responses can be cached.\
 **Language-agnostic:** Works with any programming language.\
 **Scalable:** Easy to load balance and scale.
+
+## Testing
+I am currently using the terminal to run curl comands, [Postman](https://www.postman.com/) for a bit and switched to [Bruno](https://www.usebruno.com/) because of Postman running slow on my system.
+
+## Sources
+List of websites/docs/articles I am using as reference.
+[Gin Docs](https://gin-gonic.com/en/docs/)
+[RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
+[Structs vs Interface](https://www.slingacademy.com/article/interfaces-vs-structs-when-to-use-which-in-go/)
